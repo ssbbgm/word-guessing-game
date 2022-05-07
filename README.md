@@ -35,7 +35,7 @@ Jest is used in this project.
 
 ## Contributors
 
-Trilogy Bootcamps Starter Code
+Trilogy Bootcamps Starter Code & Tutor
 
 ## Contact
 
